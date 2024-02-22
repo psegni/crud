@@ -1,0 +1,36 @@
+#header {
+  position: relative;
+  left: 40%;
+  font-size: 50px;
+}
+.board {
+  position: relative;
+  top: -60%;
+  left: 75%;
+  width: 350px;
+  height: 700px;
+  background: #000;
+  color: aliceblue;
+}
+.box {
+  position: relative;
+  top: 10%;
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}
+.box button {
+  position: relative;
+  top: -13%;
+  left: 63%;
+}
+.value {
+  position: relative;
+  top: -30px;
+  left: 10px;
+  color: azure;
+}
+.box img {
+  height: 100%;
+  width: 100%;
+}
